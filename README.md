@@ -92,7 +92,7 @@ npm run dev
 
 ## 📬 Contact
 
-### 👤 Kabir Ahmed Baloch
+### 👤 Kabeer Ahmed Balouch
 
 - GitHub: https://github.com/kabeerahmed-AiExpert
 - Portfolio: https://kabeerahmed.netlify.app/
